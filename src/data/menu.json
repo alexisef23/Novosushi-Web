@@ -1,0 +1,1309 @@
+{
+  "categories": [
+    {
+      "id": "entradas",
+      "label": "Entradas & Más",
+      "icon": "🥟"
+    },
+    {
+      "id": "empanizados",
+      "label": "Maki Empanizados",
+      "icon": "🍤"
+    },
+    {
+      "id": "frios",
+      "label": "Maki Fríos",
+      "icon": "🍣"
+    },
+    {
+      "id": "sushi-especial",
+      "label": "Nori, Aguacate & Capeados",
+      "icon": "✨"
+    },
+    {
+      "id": "ramen-bowls",
+      "label": "Ramen & Bowls",
+      "icon": "🍜"
+    },
+    {
+      "id": "basket-bar",
+      "label": "Basket Bar",
+      "icon": "🍔"
+    },
+    {
+      "id": "postres",
+      "label": "Postres",
+      "icon": "🍡"
+    },
+    {
+      "id": "bebidas",
+      "label": "Bebidas",
+      "icon": "🍹"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "MAR Y TIERRA ROLL",
+      "description": "Camarón, filete a la plancha, chiles toreados y aguacate. cubierto de philadelphia y bañado con salsa de anguila y furikake.",
+      "price": 132,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "FUJI ROLL",
+      "description": "Camarón, philadelphia, aguacate, chiles toreados, por fuera tampico, tártara, salsa de anguila y ajonjoli.",
+      "price": 127,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "name": "RED DRAGON",
+      "description": "Camarón, chile serrano, queso philadelphia, aguacate y cebollín. Empanizado y con chipotle, salsa de anguila y furikake.",
+      "price": 125,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "CRUNCHY ROLL",
+      "description": "Cangrejo, aguacate, queso philadelphia, bañado con salsa de anguila y tártara.",
+      "price": 120,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "name": "DELUXE",
+      "description": "Camarón, salmón y aguacate.",
+      "price": 122,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 6,
+      "name": "MIXI ROLL",
+      "description": "Salmón a la plancha, camarón empanizado, cebolla caramelizada, pepino, cubierto de queso philadelphia y salsa tártara.",
+      "price": 124,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "name": "TACO ROLL",
+      "description": "Jalapeño, aguacate, cebolla caramelizada, filete a la plancha, cubierto con queso y empanizado.",
+      "price": 132,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "CHICKEN ROLL",
+      "description": "Pollo a la plancha, queso manchego, aguacate, chiles toreados, cubierto con salsa de anguila y tártara.",
+      "price": 125,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 9,
+      "name": "CANGRE ROLL",
+      "description": "Cangrejo, queso philadelphia, aguacate, chiles toreados, cubierto con salsa de anguila y ajonjoli.",
+      "price": 120,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "name": "OCTOPUS ROLL",
+      "description": "Pulpo, anguila, cangrejo, aguacate, queso philadelphia y tártara.",
+      "price": 120,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 11,
+      "name": "DERKI ROLL",
+      "description": "Aguacate, queso philadelphia, pollo, chile morrón y cebolla a la plancha con ligeras rebanadas de mango.",
+      "price": 120,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 12,
+      "name": "NINIGI ROLL",
+      "description": "Atún, queso philadelphia, aguacate, cebollín, y empanizado, por fuera: chipotle, salsa de anguila y furikake.",
+      "price": 124,
+      "category": "empanizados",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "FINJI ROLL",
+      "description": "Pepino, aguacate y philadelphia, atún, salmón y camarón",
+      "price": 135,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 14,
+      "name": "BITORUTO ROLL",
+      "description": "Salmón, pepino, philadelphia, kakiague por fuera ajonjolí, tartara y betabel deshidratado.",
+      "price": 130,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "name": "SHITTO ROLL",
+      "description": "Philadelphia, camarón, por fuera aguacate y massago.",
+      "price": 130,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 16,
+      "name": "TUNA & EBI ROLL",
+      "description": "Aguacate, queso philadelphia y furikake envuelto con finos cortes de atún y camarón tártara por fuera. (10 pzs)",
+      "price": 132,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 17,
+      "name": "SPICY SHRIMP ROLL",
+      "description": "Aguacate, queso philadelphia y ajonjoli y encima camarón capeado y salsa spicy shrimp tempura. (10 pzs)",
+      "price": 132,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 18,
+      "name": "SAKI ROLL",
+      "description": "Con pulpo, camarón y aguacate, encima ajonjolí y Mayo-Chipotle.",
+      "price": 132,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 19,
+      "name": "VOLCANO ROLL",
+      "description": "Aguacate, masago, atún importado sellado, por fuera ajonjolí, salsa sriracha, salsa tártara, cebollín y espolvoreado con togarashi. (10 pzs)",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante",
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "JALAPEÑO ROLL",
+      "description": "Camarón empanizado, cebollín, julianas de jalapeño y aguacate, cubierto de philadelphia bañado con salsa de anguila y furikake.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "MANGO ROLL",
+      "description": "Queso philadelphia, aguacate, pepino y camarón, mango por fuera, espolvoreado con chile japonés y chamoy.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 22,
+      "name": "CALIFORNIA ROLL",
+      "description": "Cangrejo, pepino y aguacate cubierto de ajonjolí.",
+      "price": 120,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 23,
+      "name": "STRAWBERRY ROLL",
+      "description": "Aguacate, surimi, anago, por fuera philadelphia y fresas bañado con salsa de anguila.",
+      "price": 122,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 24,
+      "name": "MASSAGO ROLL",
+      "description": "Cangrejo, salmón y aguacate cubierto de philadelphia y massago.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 25,
+      "name": "ALASKA ROLL",
+      "description": "Camarón, queso philadelphia, aguacate, cebollín y toreados cubierto de Tampico y furikake.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "SUPER SPICY",
+      "description": "Pepino, aguacate, cilantro, cubierto de atún y rodajas de chile serrano por fuera.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "RED ROLL",
+      "description": "Camarón empanizado, salmón, anguila, aguacate y kakiague cubierto de surimi queso philadelphia, y pasta spicy, bañado con salsa de anguila y ajonjolí.",
+      "price": 130,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "TACHITO ROLL",
+      "description": "Camarón empanizado, queso philadelphia, aguacate, chiles toreados cubierto de kakiague y tampico.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 29,
+      "name": "INDIE ROLL",
+      "description": "Camarón empanizado, pepino y aguacate, encima betabel en una cama de salsa Mayo-Chipotle y ajonjolí.",
+      "price": 127,
+      "category": "frios",
+      "image": "/images/menu/rolls-clasicos/rolls.png",
+      "tags": []
+    },
+    {
+      "id": 30,
+      "name": "NORI ESPECIAL",
+      "description": "Camarón, cangrejo y aguacate, cubierto con salsa de anguila y ajonjoli. Tampico y tártara",
+      "price": 124,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "name": "Mc ARTHUR",
+      "description": "Nori, anago, salmón y tocino a la plancha, aguacate y pepino bañado de salsa de anguila con furikake y cebollín.",
+      "price": 124,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "SALMÓN ROLL",
+      "description": "Salmón, queso philadelphia, furikake y salsa de anguila.",
+      "price": 128,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": []
+    },
+    {
+      "id": 33,
+      "name": "NOVO ROLL",
+      "description": "Tocino, queso y camarón, por fuera sriracha y cebollín.",
+      "price": 127,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": []
+    },
+    {
+      "id": 34,
+      "name": "AVOCADO ROLL",
+      "description": "Salmón, cangrejo, camarón, queso philadelphia, aguacate por fuera y salsa tártara.",
+      "price": 125,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": []
+    },
+    {
+      "id": 35,
+      "name": "BOSTON ROLL",
+      "description": "Camarón, pepino, queso philadelphia, filete a la plancha, cubierto de aguacate, furikake y salsa chipotle.",
+      "price": 127,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "CAPPI ROLL",
+      "description": "Queso philadelphia, pollo a la plancha, chile serrano. Capeado por pieza y por fuera salsa de anguila. SIN NORI (10 pzs)",
+      "price": 121,
+      "category": "sushi-especial",
+      "image": "/images/menu/rolls-especiales/especiales.png",
+      "tags": []
+    },
+    {
+      "id": 37,
+      "name": "EBI RAMEN",
+      "description": "Consomé a base de camarón y mariscos, servido con camarón, huevo cocido marinado en soya.",
+      "price": 160,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 38,
+      "name": "TORINIKU RAMEN",
+      "description": "Consomé a base de pollo y especias servido con rajas de pollo y huevo cocido marinado en soya.",
+      "price": 147,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 39,
+      "name": "SHOYO RAMEN",
+      "description": "Consomé a base de cerdo y especias servido con carne y huevo cocido marinado en soya.",
+      "price": 157,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 40,
+      "name": "NORI RAMEN",
+      "description": "Consomé tradicional con alga nori.",
+      "price": 137,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 41,
+      "name": "SOPA DE TALLARIN CON POLLO",
+      "description": "Sopa de tallarin con pollo.",
+      "price": 135,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 42,
+      "name": "FISHES",
+      "description": "Salmón, atún, tilapia, aguacate, pepino y serranos.",
+      "price": 175,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 43,
+      "name": "MAR Y TIERRA",
+      "description": "Camarón, filete, queso philadelphia, aguacate y furikake.",
+      "price": 185,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 44,
+      "name": "VEGGIE",
+      "description": "Brócoli, zanahoria, aguacate y salsa a la naranja.",
+      "price": 157,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 45,
+      "name": "CHICKEN",
+      "description": "Pollo, aguacate, queso manchego, tartara y chiles toreados.",
+      "price": 175,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "name": "GOHAN",
+      "description": "Kanicama, queso philadelphia, aguacate y tampico.",
+      "price": 168,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": []
+    },
+    {
+      "id": 47,
+      "name": "SPICY TUNA",
+      "description": "Atún, chile serrano, pepino, tartara y cebollín.",
+      "price": 175,
+      "category": "ramen-bowls",
+      "image": "/images/menu/sashimi/sashimi.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "CHAMPIÑONES SALTEADOS",
+      "description": "Con ajo y chile de árbol acompañados con una cama de queso Chihuahua.",
+      "price": 148,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "CHICHARRÓN DE PESCADO",
+      "description": "Tiras de pescado, fritas, salteadas con cebolla y jalapeño bañadas con una salsa de limón.",
+      "price": 148,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "PULPO ROCKERO",
+      "description": "Salteado con julianas de cebolla y jalapeño, acompañado de Ali Olí, betabel y papas fritas.",
+      "price": 315,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 51,
+      "name": "BRÓCOLI ALÍ OLÍ",
+      "description": "Ligeramente horneado, servido con soya limón y 'Ali Oli' de la casa.",
+      "price": 160,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 52,
+      "name": "COLIFLOR ALÍ OLÍ",
+      "description": "Ligeramente tostado, servido con soya limón y 'Ali Oli' de la casa.",
+      "price": 160,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "SASHIMI DE ATÚN, SALMÓN O MIXTO",
+      "description": "Bañado en salsa especial de la casa, con rodajas de chile serrano.",
+      "price": 305,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 54,
+      "name": "SASHIMI DE ATÚN Y SALSA NEGRA",
+      "description": "Bañado en salsa de tortilla acompañado de tiras de aguacate.",
+      "price": 295,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 55,
+      "name": "CAMARÓN EN BUÑUELO",
+      "description": "5 camarones salteados, servidos con tortilla, acompañados de philadelphia bañados en salsa dulce.",
+      "price": 148,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 56,
+      "name": "PECHUGUITAS A LA NARANJA ORIENTAL",
+      "description": "300 grs de pechuga de pollo bañadas en una salsa oriental de naranja ligeramente picosa con un delicioso toque de jengibre.",
+      "price": 148,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "name": "PECHUGUITAS SRIRACHI",
+      "description": "300 grs de pechuga de pollo bañadas en una salsa hecha a base de sriracha.",
+      "price": 150,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "picante"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "SPICY SHRIMP TEMPURA",
+      "description": "Palomitas crujientes de camarón bañadas en una salsa ligeramente picosa.",
+      "price": 170,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "name": "CAMARONES NOVO",
+      "description": "Servidos en salsa estilo Loussiana.",
+      "price": 190,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "CESAR",
+      "description": "La original mezcla de lechuga con aderezo césar y jugoso pollo a la plancha con crotones y queso parmesano.",
+      "price": 145,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "name": "NOVO RANCH",
+      "description": "Pollo frito con crujientes hojas de lechuga en aderezo ranch, tomate y aguacate.",
+      "price": 139,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 62,
+      "name": "ATÚN IMPORTADO (TOSTADA)",
+      "description": "Acompañado de aderezo chipotle y salsa de la casa.",
+      "price": 105,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "TOSTADA DE ATÚN, SALMON O MIXTO",
+      "description": "Sobre una cama de aderezo mayo, bañada en salsa de tortilla y cebolla en julianas.",
+      "price": 105,
+      "category": "entradas",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "name": "HAMBURGUESA TRADICIONAL O BBQ",
+      "description": "250 gramos de carne de sirloin rellena de queso manchego con tocino y aguacate, acompañada de papitas.",
+      "price": 148,
+      "category": "basket-bar",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": [
+        "recomendacion"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "PAPAS GAJO",
+      "description": "Acompañadas de ranch o BBQ.",
+      "price": 99,
+      "category": "basket-bar",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "name": "TACOS DE CAMARÓN CAPEADO",
+      "description": "Deliciosos tacos de camarón capeado con repollo morado, lechuga, cilantro y nuestra salsa spicy shrimp tempura.",
+      "price": 148,
+      "category": "basket-bar",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "name": "TACOS DE PIERNA",
+      "description": "Cubitos de pierna de cerdo a la plancha y compañados con cebollitas y jalapeños a la plancha además de la tradicional salsa verde.",
+      "price": 107,
+      "category": "basket-bar",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 68,
+      "name": "TACOS DE RES",
+      "description": "Cubitos de carne de res a la plancha y acompañados con cebollitas y jalapeños a la plancha además de la tradicional salsa verde.",
+      "price": 120,
+      "category": "basket-bar",
+      "image": "/images/menu/entradas/entradas.png",
+      "tags": []
+    },
+    {
+      "id": 69,
+      "name": "MUFFIN DE ELOTE",
+      "description": "Sin gluten, sin harina. Decorado con leche condensada.",
+      "price": 79,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "name": "BROWNIE DE CHOCOLATE CON NUEZ",
+      "description": "Acompañado con nieve de vainilla.",
+      "price": 90,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "name": "HELADO DE VAINILLA",
+      "description": "Dos bolas de nieve con chocolate o cajeta.",
+      "price": 50,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 72,
+      "name": "TEMPURA HELADO",
+      "description": "Helado envuelto en tempura frito.",
+      "price": 79,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 73,
+      "name": "WAFFLE BELGA",
+      "description": "Frito, con espejo de cajeta, espolvoreado con azúcar y acompañado con nieve de vainilla.",
+      "price": 88,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "name": "POSTRE DE HOJALDRE",
+      "description": "Con nieve de vainilla y toping de leche quemada y nuez.",
+      "price": 80,
+      "category": "postres",
+      "image": "/images/menu/postres/postres.png",
+      "tags": []
+    },
+    {
+      "id": 75,
+      "name": "CAFÉ AMERICANO",
+      "description": "",
+      "price": 32,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 76,
+      "name": "CAFÉ ESPRESSO",
+      "description": "",
+      "price": 37,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 77,
+      "name": "CAFÉ CAPPUCCINO",
+      "description": "",
+      "price": 49,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 78,
+      "name": "LIMONADA",
+      "description": "",
+      "price": 34,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 79,
+      "name": "LIMONADA PEPINO",
+      "description": "",
+      "price": 43,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 80,
+      "name": "LIMONADA FRESA",
+      "description": "",
+      "price": 44,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 81,
+      "name": "NARANJADA",
+      "description": "",
+      "price": 38,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 82,
+      "name": "REFRESCO",
+      "description": "",
+      "price": 32,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 83,
+      "name": "TÉ HELADO",
+      "description": "",
+      "price": 40,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 84,
+      "name": "MARGARITA AZUL",
+      "description": "Tequila, curacao azul, jugo de limón (frappe).",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 85,
+      "name": "MARGARITA CHAMOY",
+      "description": "Tequila, licor de naranja, limón, chamoy, escarchado con togarashi.",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 86,
+      "name": "MARGARITA FRESA",
+      "description": "Tequila, licor de naranja, jugo de limón, fresas escarchado con azucar.",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 87,
+      "name": "MARGARITA LIMÓN",
+      "description": "Tequila, licor de naranja y jugo de limón. (frappe o en las rocas).",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 88,
+      "name": "MARGARITA MANGO",
+      "description": "Tequila, licor de naranja, jugo de limón, mango, escarchado con azucar.",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 89,
+      "name": "MARGARITA PEPINO",
+      "description": "Tequila, pepino, licor de naranja y chile jalapeño.",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 90,
+      "name": "MARGARITA TAMARINDO",
+      "description": "Tequila, licor de naranja y tamarindo.",
+      "price": 86,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 91,
+      "name": "MILLER HIGH LIFE",
+      "description": "Cerveza",
+      "price": 43,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 92,
+      "name": "HEINEKEN",
+      "description": "Cerveza",
+      "price": 43,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 93,
+      "name": "BOHEMIA CLARA",
+      "description": "Cerveza",
+      "price": 43,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 94,
+      "name": "BOHEMIA OSCURA",
+      "description": "Cerveza",
+      "price": 43,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 95,
+      "name": "AMSTEL ULTRA",
+      "description": "Cerveza",
+      "price": 41,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 96,
+      "name": "XX LAGER",
+      "description": "Cerveza",
+      "price": 40,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 97,
+      "name": "TECATE LIGHT BOTELLA",
+      "description": "Cerveza",
+      "price": 40,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 98,
+      "name": "INDIO",
+      "description": "Cerveza",
+      "price": 40,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 99,
+      "name": "CARTA BLANCA",
+      "description": "Cerveza",
+      "price": 39,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 100,
+      "name": "TECATE ROJA",
+      "description": "Cerveza",
+      "price": 39,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 101,
+      "name": "MICHELADO NOVO",
+      "description": "Agrega a tu cerveza.",
+      "price": 16,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 102,
+      "name": "SIDRA CAMALEONICA",
+      "description": "Bebida",
+      "price": 60,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 103,
+      "name": "LIMONADA ELECTRICA",
+      "description": "Vodka, midori y jugo de limón (frappe).",
+      "price": 67,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 104,
+      "name": "LIMONADA AZUL",
+      "description": "Jugo de limón y licor de naranja.",
+      "price": 55,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 105,
+      "name": "LIMONADA VERDE",
+      "description": "Jugo de limón y licor de melón.",
+      "price": 55,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 106,
+      "name": "AZTECA DE ORO",
+      "description": "Brandy 1.5oz",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 107,
+      "name": "TORRES 10",
+      "description": "Brandy 1.5oz",
+      "price": 83,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 108,
+      "name": "TORRES 5",
+      "description": "Brandy 1.5oz",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 109,
+      "name": "MARTELL VS",
+      "description": "Cognac",
+      "price": 95,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 110,
+      "name": "MARTELL VSOP",
+      "description": "Cognac",
+      "price": 110,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 111,
+      "name": "BACARDI BLANCO",
+      "description": "Ron",
+      "price": 95,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 112,
+      "name": "MATUSALEM",
+      "description": "Ron",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 113,
+      "name": "ZACAPPA 23",
+      "description": "Ron",
+      "price": 129,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 114,
+      "name": "ABSOLUT",
+      "description": "Vodka",
+      "price": 75,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 115,
+      "name": "BUCHANNANS 12",
+      "description": "Whisky",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 116,
+      "name": "BLACK AND WHITE",
+      "description": "Whisky",
+      "price": 69,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 117,
+      "name": "CHIVAS 12",
+      "description": "Whisky",
+      "price": 90,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 118,
+      "name": "ETIQUETA NEGRA",
+      "description": "Whisky",
+      "price": 100,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 119,
+      "name": "ETIQUETA ROJA",
+      "description": "Whisky",
+      "price": 85,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 120,
+      "name": "JACK DANIELS",
+      "description": "Whisky",
+      "price": 85,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 121,
+      "name": "1800 CRISTALINO",
+      "description": "Tequila",
+      "price": 97,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 122,
+      "name": "DON JULIO 70",
+      "description": "Tequila",
+      "price": 119,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 123,
+      "name": "JULIO REPOSADO",
+      "description": "Tequila",
+      "price": 90,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 124,
+      "name": "HERRADURA AÑEJO",
+      "description": "Tequila",
+      "price": 98,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 125,
+      "name": "TRADICIONAL",
+      "description": "Tequila",
+      "price": 78,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 126,
+      "name": "MAESTRO DOBEL",
+      "description": "Tequila",
+      "price": 89,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 127,
+      "name": "TRADICIONAL CRISTALINO",
+      "description": "Tequila",
+      "price": 85,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 128,
+      "name": "CARAJILLO",
+      "description": "Bebida Preparada",
+      "price": 125,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 129,
+      "name": "AMARETO COLADO",
+      "description": "Bebida Preparada",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 130,
+      "name": "BAILEYS COLADO",
+      "description": "Bebida Preparada",
+      "price": 82,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 131,
+      "name": "BLOODY MARY",
+      "description": "Bebida Preparada",
+      "price": 75,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 132,
+      "name": "BLUE HAWAIIAN",
+      "description": "Bebida Preparada",
+      "price": 75,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 133,
+      "name": "CLERICOT",
+      "description": "Bebida Preparada",
+      "price": 75,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 134,
+      "name": "PALOMA TRADICIONAL",
+      "description": "Bebida Preparada",
+      "price": 79,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 135,
+      "name": "PIÑA COLADA",
+      "description": "Bebida Preparada",
+      "price": 85,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    },
+    {
+      "id": 136,
+      "name": "SANGRIA",
+      "description": "Bebida Preparada",
+      "price": 70,
+      "category": "bebidas",
+      "image": "/images/menu/bebidas/bebidas.png",
+      "tags": []
+    }
+  ]
+}
