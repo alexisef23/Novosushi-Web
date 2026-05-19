@@ -17,13 +17,31 @@ export default function Navbar() {
 
   const navLinks = [
     { href: '#menu', label: 'Menú' },
-    { href: '#reservaciones', label: 'Reservaciones' },
     { href: '#nosotros', label: 'Nosotros' },
   ]
 
-  const scrollTo = (href) => {
+  const scrollTo = (e, href) => {
+    e.preventDefault()
     setMobileOpen(false)
-    document.querySelector(href)?.scrollIntoView({ behavior: 'smooth' })
+    
+    if (href === '#') {
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+      return
+    }
+
+    setTimeout(() => {
+      const element = document.querySelector(href)
+      if (element) {
+        const headerOffset = 90
+        const elementPosition = element.getBoundingClientRect().top
+        const offsetPosition = elementPosition + window.scrollY - headerOffset
+        
+        window.scrollTo({
+          top: offsetPosition,
+          behavior: 'smooth'
+        })
+      }
+    }, 150)
   }
 
   return (
@@ -40,7 +58,7 @@ export default function Navbar() {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
           {/* Logo */}
-          <a href="#" onClick={() => scrollTo('#')} className="flex items-center gap-3 group">
+          <a href="#" onClick={(e) => scrollTo(e, '#')} className="flex items-center gap-3 group">
             <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center p-0.5 shadow-red-glow-sm transition-all duration-300 group-hover:shadow-red-glow">
               <img
                 src="/images/logo/novo-sushi-icon.png"
@@ -55,7 +73,7 @@ export default function Navbar() {
             {navLinks.map((link) => (
               <button
                 key={link.href}
-                onClick={() => scrollTo(link.href)}
+                onClick={(e) => scrollTo(e, link.href)}
                 className="btn-ghost text-sm font-medium"
               >
                 {link.label}
@@ -90,7 +108,7 @@ export default function Navbar() {
 
             {/* Reservar CTA (desktop) */}
             <button
-              onClick={() => scrollTo('#reservaciones')}
+              onClick={(e) => scrollTo(e, '#reservaciones')}
               className="hidden md:inline-flex btn-primary text-sm"
             >
               Reservar Mesa
@@ -120,14 +138,14 @@ export default function Navbar() {
                 {navLinks.map((link) => (
                   <button
                     key={link.href}
-                    onClick={() => scrollTo(link.href)}
+                    onClick={(e) => scrollTo(e, link.href)}
                     className="text-left px-4 py-3 rounded-lg text-brand-white-muted hover:text-white hover:bg-white/5 transition-all text-sm font-medium"
                   >
                     {link.label}
                   </button>
                 ))}
                 <button
-                  onClick={() => scrollTo('#reservaciones')}
+                  onClick={(e) => scrollTo(e, '#reservaciones')}
                   className="btn-primary mt-2 justify-center"
                 >
                   Reservar Mesa
